@@ -14,7 +14,7 @@ Task No 2 Scintific Calculator
 https://github.com/vishupansare2810/CodSoft/assets/158814926/72f1a443-d24d-4a99-881b-edad14249280
 
 
-Taske NO 3 To Do List
+Task NO 3 To Do List
 
 
 https://github.com/vishupansare2810/CodSoft/assets/158814926/38a40fbf-dd74-441f-9c08-310e52492461
